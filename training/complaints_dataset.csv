@@ -1,0 +1,52 @@
+text,category,priority
+Teen din se paani nahi aa raha,Water Supply,high
+Paani bahut ganda aa raha hai,Water Supply,medium
+Mohalle mein bilkul paani supply nahi ho rahi,Water Supply,high
+Subah se paani band hai,Water Supply,high
+Do din se nal mein paani nahi aa raha,Water Supply,high
+Paani ka pressure bahut kam hai,Water Supply,medium
+Ghar mein paani supply ruk ruk kar aa rahi hai,Water Supply,medium
+Tanki bhar hi nahi rahi,Water Supply,medium
+Paani se badbu aa rahi hai,Water Supply,medium
+Pipeline leak hone ki wajah se paani waste ho raha hai,Water Supply,medium
+Kal raat se paani nahi aaya,Water Supply,high
+Area mein sab jagah paani ki dikkat hai,Water Supply,medium
+
+Road mein bade bade gaddhe hain,Roads,medium
+Sadak toot gayi hai aur accident ho raha hai,Roads,high
+Barish ke baad road kharab ho gayi hai,Roads,medium
+Road par chalna mushkil ho gaya hai,Roads,medium
+Mohalle ki sadak puri toot chuki hai,Roads,high
+Gadde ki wajah se bike fisal gayi,Roads,high
+Main road par bahut bada khadda hai,Roads,medium
+Sadak mein pani bhar jata hai aur road toot raha hai,Roads,high
+Road construction adhura chhod diya gaya hai,Roads,low
+School ke paas road bahut kharab hai,Roads,high
+Road par pathar nikle hue hain,Roads,medium
+Sadak ki halat bahut buri hai,Roads,medium
+
+Bijli subah se gayi hui hai,Electricity,high
+Street light kaam nahi kar rahi,Electricity,medium
+Hamare area mein roz power cut hota hai,Electricity,medium
+Raat bhar bijli nahi thi,Electricity,high
+Transformer se awaaz aa rahi hai,Electricity,high
+Do ghante se light nahi hai,Electricity,medium
+Ghar mein voltage bahut low aa raha hai,Electricity,medium
+Pole ki light band padi hai,Electricity,medium
+Barish ke baad bijli chali gayi,Electricity,medium
+Area ki sari street lights band hain,Electricity,medium
+Bijli baar baar ja rahi hai,Electricity,medium
+Electric pole se chingari nikal rahi hai,Electricity,high
+
+Kachra kai din se nahi utha,Sanitation,medium
+Gali mein bahut gandagi hai,Sanitation,medium
+Nali ke paas kachra jama ho gaya hai,Sanitation,medium
+Teen din se safai nahi hui,Sanitation,high
+Dustbin overflow ho raha hai,Sanitation,medium
+Road ke kinare kachra pada hua hai,Sanitation,low
+Nali jam hai aur gandagi fail rahi hai,Sanitation,high
+Mohalle mein safai karamchari nahi aa rahe,Sanitation,medium
+Kachre se badbu aa rahi hai,Sanitation,medium
+Ghar ke paas bahut gandagi jama hai,Sanitation,medium
+Area mein safai ki bahut dikkat hai,Sanitation,medium
+Nali ka paani bahar aa raha hai,Sanitation,high

@@ -1,0 +1,19 @@
+gitignor# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Temporary Files
+tempCodeRunnerFile.py
+
+# Environment Variables
+.env
+
+# OS Files
+Thumbs.db
+.DS_Store
